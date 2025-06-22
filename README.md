@@ -1,7 +1,8 @@
-## Hola, soy estudiante de Ciencia de Datos👋
+## Hi I'm Omar Gutiérrez.👋
 
+<h1> A passionate Data Science student currently in my second year of college.  </h1>
 <!--
-**Zidnz/Zidnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
