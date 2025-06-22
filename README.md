@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, soy estudiante de Ciencia de Datos👋
 
 <!--
 **Zidnz/Zidnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
