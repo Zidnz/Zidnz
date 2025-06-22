@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Gutiérrez</h1>
 <h3 align="center">a passionate Data Science student currently in my second year of college.</h3>
 
+-  I'm always eager to expand my knowledge and improve my skills, both as a data scientist/developer and as a person. I love diving into data, uncovering insights, and applying my findings to solve real-world problems. Mathematics has always been a passion of mine, and it plays a crucial role in my work and studies. I'm fascinated by the endless possibilities that technology offers and enjoy exploring new tools and frameworks. As a dedicated student at UNRC, CDIT I continuously strive for academic excellence.
 - 🌱 I’m currently learning **Frameworks, courses.**
 
 - 📫 How to reach me **omar.gutierrez16@outlook.com**
