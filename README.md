@@ -1,28 +1,53 @@
-<h1 align="center">Hi 👋, I'm Omar Gutiérrez</h1>
-<h3 align="center">I'm a passionate Data Science student currently in my second year of college.</h3>
+# 👋 Hi, I'm Omar Gutiérrez!
 
--  I'm always eager to expand my knowledge and improve my skills, both as a data scientist/developer and as a person. I love diving into data, uncovering insights, and applying my findings to solve real-world problems. Mathematics has always been a passion of mine, and it plays a crucial role in my work and studies. I'm fascinated by the endless possibilities that technology offers and enjoy exploring new tools and frameworks. As a dedicated student at UNRC, CDIT I continuously strive for academic excellence.
-- 🌱 I’m currently learning **Frameworks, courses.**
+🎓 I'm a passionate Data Science student, currently in my second year of university.  
+I'm driven by a deep curiosity about how mathematics and technology can help us understand the world and solve real problems.
 
-- 📫 How to reach me **omar.gutierrez16@outlook.com**
+💡 I enjoy working with data, learning new tools, and diving into projects that involve machine learning, statistics, and applied analytics.
 
-<h3 align="left">Connect with me:</h3>
+🚀 I'm always looking to grow — both as a data scientist and as a person — and I’m excited about opportunities to collaborate on real-world problems, research, and innovation in tech.
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/omar-guti%c3%a9rrez-88507527a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omar-guti%c3%a9rrez-88507527a/" height="30" width="40" /></a>
-<a href="https://instagram.com/zidnz._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zidnz._" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/zidnz._" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/omar-gutiérrez-88507527a/" target="_blank">
+  
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql) 
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+---
 
-### Contact Me
-<a href="https://www.linkedin.com/in/omar-guti%C3%A9rrez-88507527a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mauro%20Vera-blue?style=flat-square&logo=linkedin"></a>
-<a href="omar.gutierrez@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Outlook-omar.gutierrez@outlook.com-blue?style=flat-square&logo=gmail"></a>  
+## 🧰 Technologies & Tools
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=mauro069&show_icons=true)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <br/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mauro069&label=Profile%20views&color=0e75b6&style=flat" alt="mauro069" /> </p>
+---
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight)
+
+![Francisco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=tu-usuario&theme=tokyonight)](https://git.io/streak-stats)
+
