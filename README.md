@@ -12,8 +12,8 @@ I'm driven by a deep curiosity about how mathematics and technology can help us 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/omar-gutiérrez-88507527a/" target="_blank">
-  
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   </a>
 </p>
 
@@ -45,9 +45,9 @@ I'm driven by a deep curiosity about how mathematics and technology can help us 
 ---
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zidnz&layout=compact&theme=tokyonight)
 
-![Francisco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight)
+![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zidnz&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tu-usuario&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zidnz&theme=tokyonight)](https://git.io/streak-stats)
 
