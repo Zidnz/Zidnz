@@ -1,55 +1,27 @@
-# 👋 Hi, I'm Omar Gutiérrez!
+# Omar Gutiérrez
 
-🎓 I'm a passionate Data Science student, currently in my second year of university.  
-I'm driven by a deep curiosity about how mathematics and technology can help us understand the world and solve real problems.
+**Data Science student · Data Analyst Intern at Veolia** · Mexico City
+*Estudiante de Ciencia de Datos para el Negocio (UNRC) · Data Analyst Intern en Veolia*
 
-💡 I enjoy working with data, learning new tools, and diving into projects that involve machine learning, statistics, and applied analytics.
+I turn messy data into decisions: from cleaning a sales pipeline to scoring transactions in real time.
 
-🚀 I'm always looking to grow — both as a data scientist and as a person — and I’m excited about opportunities to collaborate on real-world problems, research, and innovation in tech.
+[![Portfolio](https://img.shields.io/badge/Portfolio-zidnz.github.io-2fa7a7?style=flat-square)](https://zidnz.github.io/portafolio-omar-gutierrez/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar_Gutiérrez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-guti%C3%A9rrez-88507527a/)
+[![Email](https://img.shields.io/badge/Email-omar.gutierrezgb@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omar.gutierrezgb@gmail.com)
 
-<p align="left">
-  <a href="https://www.instagram.com/zidnz._" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/omar-gutiérrez-88507527a/" target="_blank">
-     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  </a>
-</p>
+## Featured projects
 
----
+| Project | What it shows | Stack | Links |
+|---|---|---|---|
+| **Fraud detection** | 590,540 real transactions (IEEE-CIS) in a bronze/silver/gold lakehouse, streaming scoring with Kafka, and decisions by expected loss. Reviewing 3.35% of transactions catches 53.6% of fraud. | PySpark, Delta Lake, Kafka, PostgreSQL | [Code](https://github.com/Zidnz/Fraude-digitales-pp25-2) · [Live fraud desk](https://zidnz.github.io/portafolio-omar-gutierrez/fraude/) |
+| **MILPÍN** | FAO-56 crop water model for Irrigation District 041 (Sonora), geospatial database and API; found and fixed data leakage in the water-use model. | Python, FastAPI, PostgreSQL/PostGIS, XGBoost | [Code](https://github.com/Zidnz/Milpin-pp26-v.1-) |
+| **Care Economy Data Observatory** | 29 public data sources in a star-schema warehouse with 21 indicators, k-means typology of 2,371 urban census tracts. | Python, R, SQLite | [Code](https://github.com/Zidnz/pp26-2) |
+| **QchauCoin** | Simulated MXN/USD stablecoin: RSA-2048 signed payments, SHA-256 blocks and stability analysis. | Node.js, MongoDB, R, Keras | [Code](https://github.com/Zidnz/Moneda-Digital-) · [Live wallet](https://zidnz.github.io/portafolio-omar-gutierrez/qchaucoin/) |
 
-## 🧰 Technologies & Tools
+## Tools I use in these projects
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <br/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+**Data & ML:** Python (pandas, scikit-learn, PySpark) · SQL (PostgreSQL) · R
+**Big data:** Spark · Delta Lake · Kafka · star schemas
+**BI & CRM:** Power BI (DAX) · Looker Studio · Tableau · Salesforce & CRM Analytics · Google Apps Script
 
-</p>
-
----
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zidnz&layout=compact&theme=tokyonight)
-
-![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zidnz&show_icons=true&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=zidnz&theme=tokyonight)](https://git.io/streak-stats)
-
+**Languages:** Spanish (native) · English (B1)
