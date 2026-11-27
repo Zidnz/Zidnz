@@ -19,10 +19,6 @@
 
 ## About me
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
 **Data Science student · Data Analyst Intern at Veolia** · Mexico City
 *Estudiante de Ciencia de Datos para el Negocio (UNRC) · Data Analyst Intern en Veolia*
 
@@ -30,20 +26,6 @@
 - Studying the **B.Sc. in Data Science for Business** at Universidad Nacional Rosario Castellanos (graduating 2027).
 - Focused on **modeling, statistics and business problem-solving**: from cleaning a sales pipeline to scoring transactions in real time.
 - Open to **junior Data Scientist / Data Analyst** roles.
-
-</td>
-<td width="42%" valign="top">
-
-| Highlight | Number |
-|---|---|
-| Transactions modeled (fraud) | **590,540** |
-| Fraud caught reviewing 3.35% | **53.6%** |
-| Public data sources integrated | **29** |
-| Census tracts clustered | **2,371** |
-
-</td>
-</tr>
-</table>
 
 ---
 
